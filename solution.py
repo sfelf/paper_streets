@@ -18,7 +18,8 @@ def count_paper_streets(x_intercepts: list, y_intercepts: list, homes: list) -> 
             
     Returns:
         the count of the groups of paper streets on the map
-        
+
+    Adding a line to test what it looks like in the pull request tool
     """
     homes = __get_homes_not_on_intersections(x_intercepts, y_intercepts, homes)
     paper_streets = [street for street in __generate_streets(x_intercepts, y_intercepts) if street.isdisjoint(homes)]
