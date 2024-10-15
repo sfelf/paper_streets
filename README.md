@@ -7,7 +7,6 @@ This is my solution to the HouseCanary Paper Streets coding challenge (http://bi
 
 ----
 
-![HouseCanary: Powered by Python](https://i.imgsafe.org/79930d4.jpg)
 # HouseCanary Python Challenge: Paper Streets
 ### The Challenge
 In the search for great Software Engineers, HouseCanary has an open Python challenge. If you submit a working solution, we'll send you a HouseCanary Python Challenge sticker (anywhere in the US).
